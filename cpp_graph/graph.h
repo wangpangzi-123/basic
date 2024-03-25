@@ -9,14 +9,6 @@
 using std::cout;
 
 
-
-template<typename T> class Vertex
-{
-    //点
-
-    //向量
-};
-
 template<typename T>class Edge
 {
     public:
